@@ -83,7 +83,21 @@ masvs> stats                 # Visual breakdown by category + platform
 masvs> report                # Generate Word document
 ```
 
-![Dashboard screenshot](docs/dashboard-preview.png)
+### Dashboard Screenshots
+
+![Dashboard preview](docs/docsdashboard_preview.png.png)
+
+![Screenshot 1](docs/Screenshot%202026-04-30%20141802.png)
+
+![Screenshot 2](docs/Screenshot%202026-04-30%20141848.png)
+
+![Screenshot 3](docs/Screenshot%202026-04-30%20142217.png)
+
+![Screenshot 4](docs/Screenshot%202026-04-30%20142247.png)
+
+![Screenshot 5](docs/Screenshot%202026-04-30%20142308.png)
+
+![Screenshot 6](docs/Screenshot%202026-04-30%20142341.png)
 
 ---
 
