@@ -1,0 +1,17 @@
+{
+  "name": "mobile-security-verification-project",
+  "version": "1.0.0",
+  "description": "Mobile App Security Verification — OWASP MASVS Red Team Portfolio Project",
+  "main": "index.js",
+  "scripts": {
+    "generate-report": "node report/generate-report.js",
+    "dashboard": "node scripts/dashboard.js",
+    "start": "node scripts/dashboard.js"
+  },
+  "dependencies": {
+    "docx": "^9.6.1",
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.3",
+    "figlet": "^1.7.0"
+  }
+}
